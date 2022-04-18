@@ -3,4 +3,6 @@ package;
 import flixel.FlxG;
 import flixel.FlxSprite;
 
-class bf
+class bf extends FlxSprite {
+
+}
