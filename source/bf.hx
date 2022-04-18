@@ -4,5 +4,5 @@ import flixel.FlxG;
 import flixel.FlxSprite;
 
 class bf extends FlxSprite {
-  public function new
+  public function new(x:Int = 0, y:Int = 0)
 }
