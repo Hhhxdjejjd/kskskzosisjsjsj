@@ -10,7 +10,7 @@ class PlayState extends FlxState
 	override public function create()
 	{
 		super.create();
-                final bf = new bf();
+                final bf = new Bf();
                 add(bf);
 	}
 
